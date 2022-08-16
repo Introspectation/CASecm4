@@ -1,3 +1,3 @@
 # CASecm4
 hoho
-CA project about iterations.
+CA project about loops.
